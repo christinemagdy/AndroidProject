@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TripTravel</string>
+    <string name="profile">Profile</string>
+    <string name="homepage">HomePage</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="newTrip">New Trip</string>
+    <string name="editTrip">Edit Trips</string>
+    <string name="adminProfile">AdminProfile</string>
+    <string name="addnew">Add New Trip</string>
+    <string name="deletetripadmin">Delete Trip </string>
+</resources>
