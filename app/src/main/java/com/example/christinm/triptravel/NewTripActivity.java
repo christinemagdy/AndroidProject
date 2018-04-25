@@ -8,7 +8,7 @@ import android.view.View;
 public class NewTripActivity extends MainActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.new_trip_activity);
+        setContentView(R.layout.new_trip_activity_user);
         setTitle(R.string.newTrip);
 
 

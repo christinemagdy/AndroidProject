@@ -50,6 +50,15 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+        FloatingActionButton fab4 = findViewById(R.id.adminprof);
+        fab4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent profileIntent = new Intent(MainActivity.this , AdminProfileActivity.class);
+                startActivity(profileIntent);
+            }
+        });
     }
 
 

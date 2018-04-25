@@ -8,7 +8,7 @@ import android.view.View;
 public class AddNewTripActivity extends MainActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.admin_profile);
+        setContentView(R.layout.add_new_trip_admin);
         setTitle(R.string.addnew);
 
 

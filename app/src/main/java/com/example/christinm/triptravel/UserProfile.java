@@ -12,14 +12,6 @@ public class UserProfile extends MainActivity {
         setTitle(R.string.profile);
 
 
-        FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.addnewtripFab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent addIntent = new Intent(UserProfile.this , NewTripActivity.class);
-                startActivity(addIntent);
-            }
-        });
 
         FloatingActionButton fab2 = (FloatingActionButton) findViewById(R.id.homeFabe);
         fab2.setOnClickListener(new View.OnClickListener() {

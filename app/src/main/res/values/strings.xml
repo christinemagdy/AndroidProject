@@ -1,4 +1,5 @@
 <resources>
+    <!--Strings of Title of Activities-->
     <string name="app_name">TripTravel</string>
     <string name="profile">Profile</string>
     <string name="homepage">HomePage</string>
@@ -9,4 +10,16 @@
     <string name="adminProfile">AdminProfile</string>
     <string name="addnew">Add New Trip</string>
     <string name="deletetripadmin">Delete Trip </string>
+
+    <!--String of Context Menu-->
+    <string name="title_update">Update</string>
+    <string name="title_delete">Delete</string>
+
+
+    <!--l mafrod deh hatgeb mn l database-->
+    <string-array name="Trips">
+        <!--<item>Turkey</item>-->
+    </string-array>
+
+
 </resources>

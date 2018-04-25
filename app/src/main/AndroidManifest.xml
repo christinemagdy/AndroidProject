@@ -23,7 +23,6 @@
         <activity android:name=".ManageMyTrips"/>
         <activity android:name=".AdminProfileActivity"/>
         <activity android:name=".AddNewTripActivity"/>
-        <activity android:name=".DeleteTripAdmin"/>
     </application>
 
 </manifest>
