@@ -16,13 +16,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LoginActivity"/>
-        <activity android:name=".RegisterActivity"/>
-        <activity android:name=".UserProfile"/>
-        <activity android:name=".NewTripActivity"/>
-        <activity android:name=".ManageMyTrips"/>
-        <activity android:name=".AdminProfileActivity"/>
-        <activity android:name=".AddNewTripActivity"/>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".AdminProfile" />
+        <activity android:name=".DataForNewTripAdmin" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".UserProfile" />
+        <activity android:name=".NewTripActivity" />
+        <activity android:name=".ManageMyTrips" />
+        <activity android:name=".HomePageUserActivity" />
+        <activity android:name=".EditTripAdmin"></activity>
     </application>
 
 </manifest>

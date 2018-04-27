@@ -8,12 +8,13 @@
     <string name="newTrip">New Trip</string>
     <string name="editTrip">Edit Trips</string>
     <string name="adminProfile">AdminProfile</string>
-    <string name="addnew">Add New Trip</string>
+    <string name="addnewAdmin">Add New Trip</string>
     <string name="deletetripadmin">Delete Trip </string>
 
     <!--String of Context Menu-->
-    <string name="title_update">Update</string>
     <string name="title_delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="add">Add</string>
 
 
     <!--l mafrod deh hatgeb mn l database-->

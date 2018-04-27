@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "984137674144",
+    "firebase_url": "https://trip-travel-82a70.firebaseio.com",
+    "project_id": "trip-travel-82a70",
+    "storage_bucket": "trip-travel-82a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984137674144:android:51dcdc630961d8c8",
+        "android_client_info": {
+          "package_name": "com.example.christinm.triptravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984137674144-92i7jf5bclifrpun4m7m5kan20d5o0e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christinm.triptravel",
+            "certificate_hash": "af99587f8f84e34dc173c52ee7c99186eb8a5d20"
+          }
+        },
+        {
+          "client_id": "984137674144-bh3j2gfepamcunm6l4odl2gr4lu0tp2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOEhkjPmXMtacDIc_GE4h8JykaLW_Tx5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984137674144-bh3j2gfepamcunm6l4odl2gr4lu0tp2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

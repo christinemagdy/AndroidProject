@@ -36,7 +36,7 @@ public class ManageMyTrips extends MainActivity {
         fab2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent homeIntent = new Intent(ManageMyTrips.this , MainActivity.class);
+                Intent homeIntent = new Intent(ManageMyTrips.this , HomePageUserActivity.class);
                 startActivity(homeIntent);
             }
         });

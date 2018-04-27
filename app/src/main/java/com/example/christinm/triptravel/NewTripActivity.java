@@ -27,7 +27,7 @@ public class NewTripActivity extends MainActivity {
         fab2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent homeIntent = new Intent(NewTripActivity.this , MainActivity.class);
+                Intent homeIntent = new Intent(NewTripActivity.this , HomePageUserActivity.class);
                 startActivity(homeIntent);
             }
         });
